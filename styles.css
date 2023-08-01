@@ -42,8 +42,9 @@ body {
     display: grid;
     grid-template-columns: auto 1fr;
     background-color: #9a8edd;
-    padding: 5px;
-    border-radius: 5px;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
   }
 
   .counter{
